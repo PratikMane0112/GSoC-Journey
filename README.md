@@ -13,3 +13,7 @@
 ### March 2025
 - Explore more on project idea `Swagger/OpenApi spec for Jenkins REST API`
 - Submitted draft proposal to org for mentors review.
+
+### March 2025
+- Get appreciated for my contributions in regular docs office hrs meet up.
+- See the meeting [here](https://youtube.com/embed/yeST2WOrE_U?start=1046&end=1110)
