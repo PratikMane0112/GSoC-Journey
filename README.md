@@ -1,7 +1,7 @@
 ### Dec 2024
 - Started my journey towards Jenkins as a Org for GSoC'25.
 
-### Dece 2024 - Feb 2025
+### Dec 2024 - Feb 2025
 - Started exploring the Jenkins codebase.
 - Started attending thier weekly & monthly meet ups on regular basis.
 - Peak some good first issues & solved, also cretaed some of my own.
@@ -17,3 +17,7 @@
 ### March 2025
 - Get appreciated for my contributions in regular docs office hrs meet up.
 - See the meeting [here](https://youtube.com/embed/yeST2WOrE_U?start=1046&end=1110)
+
+### 26 March 2025
+- Got feedback from mentors after reviewing my draft proposal.
+- I got clarity about project idea but need to change my approch towards implentation of it.
