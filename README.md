@@ -1,12 +1,12 @@
 ### Dec 2024
 - Started my journey towards Jenkins as a Org for GSoC'25.
 
-### Dec 2024 - Feb 2025
+### Dec 2024 - Feb 2025 (GSoC'25 was officially got annouched)
 - Started exploring the Jenkins codebase.
 - Started attending thier weekly & monthly meet ups on regular basis.
-- Peak some good first issues & solved, also cretaed some of my own.
+- Picked some good first issues & solved, also cretaed some of my own. ([1](https://github.com/jenkinsci/http-request-plugin/pull/190), [2](https://github.com/jenkinsci/jenkins-clone-workspace-scm-plugin/pull/63), [3](https://github.com/jenkinsci/nodejs-plugin/pull/157), [4](https://github.com/jenkinsci/testng-plugin-plugin/pull/346), [5](https://github.com/jenkinsci/pipeline-stage-view-plugin/pull/361), [6](https://github.com/jenkins-infra/status/pull/587), [7](https://github.com/jenkins-infra/jenkins.io/pull/7962))
 
-### 27 Feb 2025
+### 27 Feb 2025 (Annouchment of Selected Org for GSoC'25 by Google)
 - Jenkins get selected as org in GSoC'25.
 - Gone through thier project ideas for GSoC & selected one which interest me.
 
