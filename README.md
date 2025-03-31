@@ -14,7 +14,7 @@
 - Explore more on project idea `Swagger/OpenApi spec for Jenkins REST API`
 - Submitted draft proposal to org for mentors review.
 
-### March 2025
+### March 2025 (Apps for proposal submission were started by GSoC)
 - Get appreciated for my contributions in regular docs office hrs meet up.
 - See the meeting [here](https://youtube.com/embed/yeST2WOrE_U?start=1046&end=1110)
 
@@ -27,3 +27,7 @@
 - I have to search for better approch now & come to know level of GSoC & why it is respected ?
 - Was very fearfull about how will I come with up with a new approach in a week as proposal sub deadline is coming close.
 - Just watch a [this video](https://youtu.be/L2w8vKRAPkY?feature=shared) on youtube for motivation & had a hope to struggle or next week.
+
+### 31 March 2025
+- After hardwork of last few days, I got an clarity about my project idea but I need to refactor my proposal with new approch & according to mentors feedback before deadline.
+- After getting motivated by [this video](https://youtu.be/benwbKIYb9o?feature=shared), I decided to go underground for a week in my daily life for the best proposal from my side.
