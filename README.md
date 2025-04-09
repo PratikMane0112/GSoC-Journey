@@ -31,3 +31,7 @@
 ### 31 March 2025
 - After hardwork of last few days, I got an clarity about my project idea but I need to refactor my proposal with new approch & according to mentors feedback before deadline.
 - After getting motivated by [this video](https://youtu.be/benwbKIYb9o?feature=shared), I decided to go underground for a week in my daily life for the best proposal from my side.
+
+### 8 April 2025
+- After going underground for a week, I finally submitted my proposal to GSoC portal.
+- Lot more nervous, little bit of hope & much more exicting about the result, lets see.
