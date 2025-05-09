@@ -35,3 +35,9 @@
 ### 8 April 2025
 - After going underground for a week, I finally submitted my proposal to GSoC portal.
 - Lot more nervous, little bit of hope & much more exicting about the result, lets see.
+
+### 8 May 2025
+- Unfortunately not got selected :(
+- After asking feedback from mentors, come to know that my proposal was good but my project idea was not on priority for org this year.
+  My proposal - https://docs.google.com/document/d/1Ia9s9pu6AZUice8HKlIN2wY1uaVigB4qcNynzQ4cZs0/edit?usp=drivesdk
+- My 2025 GSoC journey ends here, if things goes well sorted then I will try for next year.
