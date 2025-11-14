@@ -41,3 +41,14 @@
 - After asking feedback from mentors, come to know that my proposal was good but my project idea was not on priority for org this year.
   My proposal - https://docs.google.com/document/d/1Ia9s9pu6AZUice8HKlIN2wY1uaVigB4qcNynzQ4cZs0/edit?usp=drivesdk
 - My 2025 GSoC journey ends here, if things goes well sorted then I will try for next year.
+
+### Oct 2025
+- Finally, I get selected for Internship at Red Hat through college tpo
+- Yes, I was not able to crack GSoC'25 but preparation for it landed me this opportunity.
+- So, Now I'm free & decided to contribute to jenkins again.
+
+### Nov 2025
+- After learnings from my past experience & focusely working with clarity, Succcessfully I solved two good first issues in `plugin modernizer tool` during hacktoberfest'25.
+  - [Prevented unnecessary empty directory creation during plugin validation by adding an early    existence check in update-center. Improved efficiency and reduced clutter in build directories. Enhanced tool stability for non-existing or invalid plugins](https://github.com/jenkins-infra/plugin-modernizer-tool/pull/1314)
+  - [Improved accuracy of static templates by ensuring the conditional nature of the StringEscapeUtils Commons Text migration is properly reflected. Enhanced migration automation reliability and reduced confusion in migration recipes](https://github.com/jenkins-infra/plugin-modernizer-tool/pull/1290)
+- Now I come to know that its not about hardwork, discipline or consistency. Yes, they are important but We need to have clarity before all these.
