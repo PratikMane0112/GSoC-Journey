@@ -54,6 +54,6 @@
 - Now I come to know that its not about hardwork, discipline or consistency. Yes, they are important but We need to have clarity before all these.
 
 ### 4 Dec 2025
-- Today morning I woke & a news which made my day :)
-- Guess what's it is, google annouched GSoC 2026 officially !
-- I will definitely give one more chance to me because this time **My start will not from scratch but from experience !!!**
+- Today morning I woke up & a news which made my day :)
+- Guess what's it is ? Google annouched GSoC 2026 officially !
+- I will definitely give one more chance to myself because this time **My start will not from scratch but from experience !!!**
