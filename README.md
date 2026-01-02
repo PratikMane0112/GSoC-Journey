@@ -55,5 +55,10 @@
 
 ### 4 Dec 2025
 - Today morning I woke up & a news which made my day :)
-- Guess what's it is ? Google annouched GSoC 2026 officially !
+- Guess what's it is ? Google announced GSoC 2026 officially !
 - I will definitely give one more chance to myself because this time **My start will not from scratch but from experience !!!**
+
+### 1 Jan 2026
+- I continued to investigate [plugin modernizer tool](https://github.com/jenkins-infra/plugin-modernizer-tool) these days ....
+- Today, Jenkins announce [GSoC'26 potential project ideas](https://www.jenkins.io/projects/gsoc/2026/project-ideas/) & [plugin modernizer](https://www.jenkins.io/projects/gsoc/2026/project-ideas/plugin-modernizer-improvements/) is in them :)
+- Its like `cherry on the top !!!!!` Now, I just need to focus on the more understanding of project idea & do some good contributions to make a solid proposal to meet expected outcomes...
