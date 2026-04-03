@@ -62,3 +62,9 @@
 - I continued to investigate [plugin modernizer tool](https://github.com/jenkins-infra/plugin-modernizer-tool) these days ....
 - Today, Jenkins announce [GSoC'26 potential project ideas](https://www.jenkins.io/projects/gsoc/2026/project-ideas/) & [plugin modernizer](https://www.jenkins.io/projects/gsoc/2026/project-ideas/plugin-modernizer-improvements/) is in them :)
 - Its like `cherry on the top !!!!!` Now, I just need to focus on the more understanding of project idea & do some good contributions to make a solid proposal to meet expected outcomes...
+
+### Jan 2026 - Feb 2026
+- Continued to contribute plugin modernizer and [raised more PRs](https://github.com/jenkins-infra/plugin-modernizer-tool/pulls?q=is%3Apr+author%3APratikMane0112+is%3Aclosed) which got merge.
+- The[plugin modernizer stats visualization](https://www.jenkins.io/projects/gsoc/2026/project-ideas/plugin-modernizer-improvements/) project idea focuses on UI part. So, need to switch my learning path towards revising frontend UI Frameworks (I am already familiar with them during my clg time).
+- The project aims to increase the visibility of plugin modernizer work done till now via a UI site (data source - [metadata-plugin-modernizer](https://github.com/jenkins-infra/metadata-plugin-modernizer))
+
