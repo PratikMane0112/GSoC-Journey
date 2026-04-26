@@ -65,6 +65,13 @@
 
 ### Jan 2026 - Feb 2026
 - Continued to contribute plugin modernizer and [raised more PRs](https://github.com/jenkins-infra/plugin-modernizer-tool/pulls?q=is%3Apr+author%3APratikMane0112+is%3Aclosed) which got merge.
-- The[plugin modernizer stats visualization](https://www.jenkins.io/projects/gsoc/2026/project-ideas/plugin-modernizer-improvements/) project idea focuses on UI part. So, need to switch my learning path towards revising frontend UI Frameworks (I am already familiar with them during my clg time).
+- The [plugin modernizer stats visualization](https://www.jenkins.io/projects/gsoc/2026/project-ideas/plugin-modernizer-improvements/) project idea focuses on UI part. So, need to switch my learning path towards revising frontend UI Frameworks (I am already familiar with them during my clg time).
 - The project aims to increase the visibility of plugin modernizer work done till now via a UI site (data source - [metadata-plugin-modernizer](https://github.com/jenkins-infra/metadata-plugin-modernizer))
+
+### 20 March 2026
+- Submitted my draft proposal for mentors review.
+
+### 30 March 2026
+- After updating the proposal according to mentors feedback
+- Submitted my final proposal to gsoc site.
 
