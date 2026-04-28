@@ -75,3 +75,6 @@
 - After updating the proposal according to mentors feedback
 - Submitted my final proposal to gsoc site.
 
+### 17 April 2026
+- Had a interview regarding understanding around the project idea.
+- Interview went well, now waiting for results (fingers crossed).
