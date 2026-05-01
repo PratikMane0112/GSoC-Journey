@@ -78,3 +78,7 @@
 ### 17 April 2026
 - Had a interview regarding understanding around the project idea.
 - Interview went well, now waiting for results (fingers crossed).
+
+### 30 April 2026
+- Finally, got selected !!!!!
+- I will not sleep today, I guess :) 
